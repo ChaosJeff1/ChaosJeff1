@@ -6,6 +6,7 @@ No meu tempo livre, eu curto ir na praia, jogar uns games e passear com meus cac
 [![Linkedin](https://img.shields.io/badge/Jeff%20Cerqueira%20-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffcerqueira/)
 
 - ![Jeff GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaosJeff1&show_icons=true&theme=dark)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaosJeff1)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias
 
